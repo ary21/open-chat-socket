@@ -1,0 +1,4 @@
+<!-- Placeholder for notification.mp3 -->
+<!-- A simple notification sound should be placed here -->
+<!-- You can use any short notification sound (beep, ding, etc.) -->
+<!-- For now, the app will gracefully handle if this file is missing -->
