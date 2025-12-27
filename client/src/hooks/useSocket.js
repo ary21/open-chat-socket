@@ -1,7 +1,8 @@
 import { useEffect, useState, useCallback, useRef } from 'react';
 import { io } from 'socket.io-client';
 
-const SOCKET_URL = 'http://localhost:3001';
+// const SOCKET_URL = 'http://localhost:3001';
+const SOCKET_URL = 'https://server-production-73da.up.railway.app/';
 
 /**
  * Custom hook for Socket.IO connection and event handling
