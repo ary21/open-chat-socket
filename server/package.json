@@ -5,6 +5,7 @@
     "main": "index.js",
     "type": "module",
     "scripts": {
+        "build": "npm run migrate",
         "dev": "node --watch index.js",
         "start": "node index.js",
         "migrate": "prisma migrate dev",
